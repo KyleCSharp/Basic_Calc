@@ -1,0 +1,14 @@
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\bin\Debug\netcoreapp3.1\Basic_Calculator.exe
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\bin\Debug\netcoreapp3.1\Basic_Calculator.deps.json
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\bin\Debug\netcoreapp3.1\Basic_Calculator.runtimeconfig.json
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\bin\Debug\netcoreapp3.1\Basic_Calculator.runtimeconfig.dev.json
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\bin\Debug\netcoreapp3.1\Basic_Calculator.dll
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\bin\Debug\netcoreapp3.1\Basic_Calculator.pdb
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.csproj.AssemblyReference.cache
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.AssemblyInfoInputs.cache
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.AssemblyInfo.cs
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.dll
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.pdb
+C:\Users\kylel\repos\Basic_Calculator\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.genruntimeconfig.cache
